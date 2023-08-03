@@ -1,0 +1,27 @@
+.Box1{
+   height:300px;
+   width:300px;
+   border: 5px solid red;
+   padding: 0px 20px;
+   margin-top:20px;
+   margin-left:20px;
+   outline:5px dashed blue;
+   outline-offset:5px;
+}
+p{
+    color:#fff;
+    background-color:black;
+    text-align:justify;
+    padding: 5px;
+    direction:rtl;
+    unicode-bidi:bidi-override;
+
+    
+}
+#top{
+    vertical-align:top;
+
+}
+#sup{
+    vertical-align:super;
+}
